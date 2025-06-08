@@ -5,3 +5,4 @@ def jumlah_digit(n):
 
 angka = 234
 print(f"Jumlah digit dari {angka} adalah {jumlah_digit(angka)}")
+
